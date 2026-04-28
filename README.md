@@ -1,5 +1,5 @@
 <!-- HERO SECTION --><h1 align="center">Hi 👋, I'm Mayank Mihir</h1>
-<h3 align="center">🚀 Frontend Developer| Developer | Java Enthusiast | CSE Student</h3><p align="center">
+<h3 align="center">🚀 Developer | Java Enthusiast | CSE Student</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Java+Developer;Always+Learning+New+Things" />
 </p><p align="center">
   <a href="https://www.linkedin.com/in/mayankmihir">
