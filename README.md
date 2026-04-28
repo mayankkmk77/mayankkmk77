@@ -1,102 +1,87 @@
-<h1 align="center">Hi 👋, I'm Mayank Mihir</h1>
-<h3 align="center">💻 Full Stack Learner | 🚀 Java Developer | 🎓 CSE Student</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Problem+Solver" />
+<!-- HERO SECTION --><h1 align="center">Hi 👋, I'm Mayank Mihir</h1>
+<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | CSE Student</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Full+Stack+Restaurant+App;Always+Learning+New+Things" />
+</p><p align="center">
+  <a href="https://www.linkedin.com/in/mayankmihir">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mayankm.0070@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mayankkmk77&style=for-the-badge&color=blue" />
 </p>---
 
-🚀 About Me
+👨‍💻 About Me
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>- 🎓 Computer Science student passionate about development
-- 🍽️ Currently building: Full-Stack Restaurant Website
-- 💡 Interested in Backend + Full Stack Development
-- 🌱 Learning: DSA, SQL & Backend Systems
-- 🎯 Goal: Become a Professional Software Developer
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>🎓 Computer Science student passionate about development
+🍽️ Building: Full-Stack Restaurant Website
+💡 Focus: Backend + Full Stack Development
+🌱 Learning: DSA, SQL & System Design
+🎯 Goal: Software Developer
 
 ---
 
 🛠️ Tech Stack
 
-👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,js" />
-</p>🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>🧰 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
-</p>🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>---
-
-📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankkmk77&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmk77&layout=compact&theme=tokyonight" />
-</p>---
-
-🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkmk77&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql,git,github,vscode,eclipse,idea" />
 </p>---
 
 🚀 Featured Projects
 
-🍽️ Restaurant Website (Full Stack)
-
-- Full-stack restaurant web application
-- Features: Menu, ordering system, responsive UI
-- Focus on frontend + backend integration
-
-🌐 Portfolio Website
-
-- Personal portfolio to showcase projects & skills
-- Clean and responsive UI
-
-☕ Java Projects
-
-- Multiple Java applications based on OOP concepts
-- Focus on logic building and problem solving
+<!-- PROJECT CARD 1 -->🍽️ Restaurant Website (Full Stack)
 
 <p align="center">
-  👉 <a href="https://github.com/mayankkmk77"><b>View All Projects</b></a>
-</p>---
-
-🧠 Currently Learning
-
-<p align="center">
-  📌 Data Structures & Algorithms &nbsp; | &nbsp;
-  📌 Backend Development &nbsp; | &nbsp;
-  📌 SQL & Databases  
-</p>---
-
-📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayankmihir">
-    <img src="https://img.shields.io/badge/LinkedIn-MayankMihir-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mayankm.0070@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://via.placeholder.com/800x400.png?text=Restaurant+Website+Preview" alt="Restaurant Project"/>
 </p><p align="center">
-📱 +91 8797396307
+Full-stack restaurant web app with menu, ordering system & responsive UI  
+</p><p align="center">
+  <a href="https://github.com/mayankkmk77">
+    <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel" />
+  </a>
 </p>---
 
-👀 Profile Views
+<!-- PROJECT CARD 2 -->🌐 Portfolio Website
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankkmk77&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://via.placeholder.com/800x400.png?text=Portfolio+Website+Preview" alt="Portfolio Project"/>
+</p><p align="center">
+Personal portfolio website with modern UI and responsive design  
+</p><p align="center">
+  <a href="https://github.com/mayankkmk77">
+    <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+  </a>
 </p>---
 
-⚡ Fun Fact
+<!-- PROJECT CARD 3 -->☕ Java Projects
 
 <p align="center">
-I love building real-world projects and continuously improving 🚀
-</p>
+  <img src="https://via.placeholder.com/800x400.png?text=Java+Projects" alt="Java Project"/>
+</p><p align="center">
+Collection of Java applications based on OOP & problem solving  
+</p><p align="center">
+  <a href="https://github.com/mayankkmk77">
+    <img src="https://img.shields.io/badge/View%20Projects-000?style=for-the-badge&logo=github" />
+  </a>
+</p>---
+
+📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankkmk77&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmk77&layout=compact&theme=tokyonight" height="150"/>
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkmk77&theme=tokyonight" />
+</p>---
+
+📫 Contact
+
+<p align="center">
+  📧 mayankm.0070@gmail.com <br>
+  📱 +91 8797396307
+</p>---
+
+<h3 align="center">✨ Turning Ideas into Real Projects 🚀</h3>
