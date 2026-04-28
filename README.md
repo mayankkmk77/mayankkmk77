@@ -1,5 +1,5 @@
 <!-- HERO SECTION --><h1 align="center">Hi 👋, I'm Mayank Mihir</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | CSE Student</h3><p align="center">
+<h3 align="center">🚀 Developer | Java Enthusiast | CSE Student</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Java+Developer;Always+Learning+New+Things" />
 </p><p align="center">
   <a href="https://www.linkedin.com/in/mayankmihir">
@@ -32,17 +32,23 @@
 📚 Core CSE Subjects
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" title="Operating Systems" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="DBMS" />
-  <img src="https://skillicons.dev/icons?i=java" title="OOP" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="Computer Organization & Architecture" />
-  <img src="https://skillicons.dev/icons?i=html,css,js" title="Web Technology" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" title="Computer Networks" />
-  <img src="https://skillicons.dev/icons?i=algorithm" title="DAA" />
-  <img src="https://skillicons.dev/icons?i=ai" title="AIML" />
+  <b>⭐ Strong Areas:</b> Operating Systems, DBMS  
 </p><p align="center">
-  <b>Operating Systems</b> &nbsp;•&nbsp; <b>DBMS</b> &nbsp;•&nbsp; <b>OOP</b> &nbsp;•&nbsp; <b>COA</b><br>
-  <b>Web Technology</b> &nbsp;•&nbsp; <b>Computer Networks</b> &nbsp;•&nbsp; <b>DAA</b> &nbsp;•&nbsp; <b>AIML</b>
+  <b>Operating Systems</b> → Process Management, Memory Handling, Scheduling  
+  <br>
+  <b>DBMS</b> → Database Design, SQL Queries, Normalization  
+  <br>
+  <b>OOP</b> → Object-Oriented Design, Encapsulation, Inheritance  
+  <br>
+  <b>Computer Organization & Architecture</b> → CPU, Memory, Instruction Execution  
+  <br>
+  <b>Web Technology</b> → Frontend Development (HTML, CSS, JS)  
+  <br>
+  <b>Computer Networks</b> → Networking Basics, Protocols, OSI Model  
+  <br>
+  <b>DAA</b> → Algorithms, Complexity Analysis, Problem Solving  
+  <br>
+  <b>AIML</b> → Basics of AI & Machine Learning Concepts  
 </p>
 ---
 
