@@ -1,5 +1,5 @@
 <!-- HERO SECTION --><h1 align="center">Hi 👋, I'm Mayank Mihir</h1>
-<h3 align="center">🚀 Developer | Java Enthusiast | CSE Student</h3><p align="center">
+<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | CSE Student</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Java+Developer;Always+Learning+New+Things" />
 </p><p align="center">
   <a href="https://www.linkedin.com/in/mayankmihir">
@@ -26,6 +26,23 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql,git,github,vscode,eclipse,idea" />
+</p>
+---
+
+📚 Core CSE Subjects
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" title="Operating Systems" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="DBMS" />
+  <img src="https://skillicons.dev/icons?i=java" title="OOP" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="Computer Organization & Architecture" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" title="Web Technology" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" title="Computer Networks" />
+  <img src="https://skillicons.dev/icons?i=algorithm" title="DAA" />
+  <img src="https://skillicons.dev/icons?i=ai" title="AIML" />
+</p><p align="center">
+  <b>Operating Systems</b> &nbsp;•&nbsp; <b>DBMS</b> &nbsp;•&nbsp; <b>OOP</b> &nbsp;•&nbsp; <b>COA</b><br>
+  <b>Web Technology</b> &nbsp;•&nbsp; <b>Computer Networks</b> &nbsp;•&nbsp; <b>DAA</b> &nbsp;•&nbsp; <b>AIML</b>
 </p>
 ---
 
